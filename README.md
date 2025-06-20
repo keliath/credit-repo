@@ -11,6 +11,11 @@ Puedes acceder a la app desplegada públicamente en:
 🌐 **Frontend Web (Angular)**  
 👉 [https://dei7elyuleuoq.cloudfront.net](https://dei7elyuleuoq.cloudfront.net)
 
+### Usuarios de prueba:
+email: analyst1@example.com password: Password123!
+
+email: user1@example.com password: Password123!
+
 ---
 
 ## 📂 Repositorios individuales
@@ -19,6 +24,7 @@ Cada módulo tiene su propio repositorio con instrucciones detalladas de instala
 
 ### 🛠️ Backend (.NET + Docker)
 📁 [credit-backend](https://github.com/keliath/credit-backend/tree/main)
+https://github.com/keliath/credit-backend/tree/main
 
 - API RESTful con arquitectura DDD y documentación Swagger
 - Desplegado en AWS EC2
@@ -26,6 +32,7 @@ Cada módulo tiene su propio repositorio con instrucciones detalladas de instala
 
 ### 💻 Frontend (Angular)
 📁 [credit-frontend](https://github.com/keliath/credit-frontend/tree/main)
+https://github.com/keliath/credit-frontend/tree/main
 
 - SPA desarrollada en Angular
 - Interfaz moderna y responsive
