@@ -1,6 +1,6 @@
 # 💳 Credit App – Repositorio Central
 
-Este repositorio actúa como punto de referencia para las aplicaciones de frontend y backend desarrolladas para la prueba técnica **Credit App**.
+Este repositorio actúa como punto de referencia (El cual contendrá el PDF del modelo y un ZIP con los archivos de la base) para las aplicaciones de frontend y backend desarrolladas para la prueba técnica **Credit App**.
 
 ---
 
